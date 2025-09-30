@@ -111,6 +111,22 @@ Words with 3 letters like كتب / كتب often shrink in plural.
 
 هواء → أهوية / أهواء (hawāʾ → ahwiyah/ahwāʾ) = air → airs / desires
 
+غريب - غرباء
+
 Feminine words with ة usually → ات (بنت → بنات).
+
+
+big	كبير	كبيرة	كبار	كبيرات
+small	صغير	صغيرة	صغار	صغيرات
+new	جديد	جديدة	جدد	جديدات
+old	قديم	قديمة	قدماء	قديمات
+beautiful	جميل	جميلة	جميلون	جميلات
+kind	طيب	طيبة	طيبون	طيبات
+strong	قوي	قوية	أقوياء	قويات
+weak	ضعيف	ضعيفة	ضعفاء	ضعيفات
+tall	طويل	طويلة	طوال	طويلات
+short	قصير	قصيرة	قصار	قصيرات
+
+
 
 

@@ -1,5 +1,29 @@
 الصفات (Adjectives)
 
+طيب (ṭayyib) = kind, good-hearted, nice (masc.)
+
+طيبة (ṭayyiba) = kind (fem.)
+
+طيبون (ṭayyibūn) = kind (masc. plural)
+
+طيبات (ṭayyibāt) = kind (fem. plural)
+
+نساء قويات = strong women
+
+قوة (quwwa) = “strength” (a noun, not an adjective).
+
+What you need is the adjective قوي (qawī) = strong.
+
+Its plural form is أقوياء (aqwiyāʾ).
+
+رجل قوي = a strong man
+
+رجال أقوياء = strong men
+
+امرأة قوية = a strong woman
+
+نساء قويات = strong women
+
 كبير big
 صغير small
 جديد new
@@ -28,3 +52,12 @@
 أنت
 هو
 هي
+
+
+big	كبير	كبيرة	كبار	كبيرات
+small	صغير	صغيرة	صغار	صغيرات
+beautiful	جميل	جميلة	جميلون/جمائل	جميلات
+strong	قوي	قوية	أقوياء	قويات
+kind/nice	طيب	طيبة	طيبون	طيبات
+new	جديد	جديدة	جدد	جديدات
+old	قديم	قديمة	قدماء	قديمات

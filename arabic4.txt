@@ -1,0 +1,189 @@
+Pronoun	Arabic	Meaning
+أنا	أكتب	I write
+أنتَ	تكتب	You (masc.) write
+أنتِ	تكتبين	You (fem.) write
+هو	يكتب	He writes
+هي	تكتب	She writes
+نحن	نكتب	We write
+أنتم	تكتبون	You (pl.) write
+هم	يكتبون	They write
+
+أنا أكتب كتابًا = I write a book.
+
+أنتَ تكتب رسالة = You (m) write a letter.
+
+أنتِ تكتبين في الدفتر = You (f) write in the notebook.
+
+هو يكتب بسرعة = He writes quickly.
+
+هي تكتب واجبها = She writes her homework.
+
+نحن نكتب بالعربية = We write in Arabic.
+
+أنتم تكتبون معلمكم = You (pl.) write to your teacher.
+
+هم يكتبون في المدرسة = They write in the school.
+
+يشتري = to buy 🛒
+
+يبيع = to sell 💰
+
+يجلس = to sit 🪑
+
+يقف = to stand up 🚶
+
+أنا أشتري خبزًا = I buy bread.
+
+أنتَ تشتري تفاحةً = You (m.) buy an apple.
+
+أنتِ تشترين كتابًا = You (f.) buy a book.
+
+هو يشتري سيارةً = He buys a car.
+
+هي تشتري حقيبةً = She buys a bag.
+
+نحن نشتري قهوةً = We buy coffee.
+
+أنتم تشترون كتبًا = You (pl.) buy books.
+
+هم يشترون بيوتًا = They buy houses.
+
+أبعى sell
+
+أشتري
+أبعي
+
+يجلس
+يقف
+
+أنا أجلس على الكرسي = I sit on the chair.
+
+هو يجلس في البيت = He sits in the house.
+
+نحن نجلس مع الأصدقاء = We sit with friends.
+
+هي تقف أمام الباب = She stands in front of the door.
+
+الطلاب يقفون في الصف = The students stand in line.
+
+المعلم يجلس على الكرسي ويكتب في الدفتر.
+(The teacher sits on the chair and writes in the notebook.)
+
+الطلاب يقفون في الصف ويقرؤون كتبًا جديدة.
+(The students stand in line and read new books.)
+
+الأولاد يجلسون على الأرض ويأكلون خبزًا.
+(The boys sit on the floor and eat bread.)
+
+البنات يقفن في المطبخ ويشربن حليبًا.
+(The girls stand in the kitchen and drink milk.)
+
+نحن نجلس مع الأصدقاء ونشرب شايًا.
+(We sit with friends and drink tea.)
+
+أنتَ تقف أمام البيت وتكتب رسالةً.
+(You (m.) stand in front of the house and write a letter.)
+
+“see = يرى” and “hear = يسمع”
+
+ذهب → يذهب (to go)
+جاء → يأتي (to come)
+عمل → يعمل (to work)
+درس → يدرس (to study)
+
+
+أنا أذهب إلى المدرسة كل يوم.
+(I go to school every day.)
+
+هو يأتي إلى البيت في المساء.
+(He comes to the house in the evening.)
+
+نحن نعمل في المكتب.
+(We work in the office.)
+
+هي تدرس العربية.
+(She studies Arabic.)
+
+Pragmatic programmer
+
+
+✍️ Communication & Learning
+
+أكتب = I write
+
+أقرأ = I read
+
+أدرس = I study
+
+أقول = I say (we mentioned but didn’t drill yet)
+
+🍽️ Eating & Drinking
+
+آكل / أكل = I eat
+
+أشرب = I drink
+
+🪑 Movement / Position
+
+أجلس = I sit
+
+أقف = I stand
+
+أذهب = I go
+
+آتي = I come
+
+🛒 Daily Life
+
+أشتري = I buy
+
+أبيع = I sell
+
+أعمل = I work
+
+👀👂 Senses
+
+أرى = I see
+
+أسمع = I hear
+
+
+قصة يوم (A Day’s Story)
+
+في الصباح 🌅
+
+أنا أجلس على الكرسي وأشرب شايًا.
+I sit on the chair and drink tea.
+
+ثم آكل خبزًا وأقرأ جريدةً.
+Then I eat bread and read a newspaper.
+
+في المدرسة 🏫
+
+أنا أذهب إلى المدرسة وأدرس العربية.
+I go to school and study Arabic.
+
+المعلم يجلس على الكرسي ويكتب في الدفتر.
+The teacher sits on the chair and writes in the notebook.
+
+الطلاب يقفون في الصف ويقرؤون قصصًا جديدة.
+The students stand in line and read new stories.
+
+في السوق 🛒
+
+بعد المدرسة، أنا أشتري خبزًا وأبيع تفاحًا.
+After school, I buy bread and sell apples.
+
+أنا أرى الناس في السوق وأسمع أصواتًا كثيرة.
+I see people in the market and hear many voices.
+
+في المساء 🌙
+
+أبي يعمل في المكتب ويأتي إلى البيت متأخرًا.
+My father works in the office and comes home late.
+
+نحن نجلس معًا ونشرب قهوةً.
+We sit together and drink coffee.
+
+أخي يكتب رسالةً وأختي تقرأ كتابًا.
+My brother writes a letter and my sister reads a book.
