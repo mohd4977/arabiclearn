@@ -1,0 +1,69 @@
+Verbs:
+
+أفتح = I open
+
+أغلق = I close
+
+أدخل = I enter
+
+أخرج = I go out
+
+أساعد = I help
+
+أزور = I visit
+
+أحب = I love/like
+
+أمشي = I walk
+
+أركض = I run
+
+Nouns:
+
+الباب = door
+
+النافذة = window
+
+البيت = house
+
+الغرفة = room
+
+السوق = market
+
+الحديقة = garden
+
+صديق = friend
+
+عائلة = family
+
+Adjectives:
+
+مفتوح = open
+
+مغلق = closed
+
+قريب = near
+
+بعيد = far
+
+جميل = beautiful
+
+نظيف = clean
+
+سريع = fast
+
+بطيء = slow
+
+Prepositions:
+
+بجانب = next to
+
+خلف = behind
+
+أمام = in front of
+
+بين = between
+
+فوق = above
+
+تحت = under
