@@ -35,6 +35,7 @@ Nouns:
 صديق = friend
 
 عائلة = family
+table = الطاولة
 
 Adjectives:
 
@@ -67,3 +68,40 @@ Prepositions:
 فوق = above
 
 تحت = under
+
+ألتقط (altaqiṭ) = I pick up (take something from the ground / grab).
+
+أضع (aḍaʿ) = I put / place / drop (literally “I put down”).
+
+“need” (أحتاج)
+من هنا = “from here.”
+
+أفتح
+أقلخ
+أدخل
+أخلج
+
+
+أساعد
+أزور
+أحب
+أمشي
+أركز
+التقط
+أضع
+
+يتكلم (speak)
+
+بالعربية = in Arabic
+
+بالإنجليزية = in English
+
+بالفرنسية = in French
+
+بالألمانية = in German
+
+بالإسبانية = in Spanish
+
+بالباكستانية / بالأردية = in Urdu
+
+ينظف clean
