@@ -90,8 +90,126 @@ Using new words:
 
 بيتي = my house
 
+
+
 حذائي = my shoe
 
 يده = his hand
 
 قدمها = her foot
+
+
+
+cat قطة
+
+
+أضحك
+aḍḥaku
+I laugh
+
+
+أبكي
+abkī
+I cry
+
+ساعة
+clock / watch
+
+ملابس
+clothes
+
+غالي
+expensive
+
+رخيص
+cheap
+
+مشمس
+sunny
+
+غائم
+cloudy
+
+happy
+سعيد
+
+حزين
+sad
+
+لأن
+because
+
+
+
+أتعلم
+ataʿallam
+I learn
+
+أنسى
+ansā
+I forget
+
+أتذكر
+atadhakkar
+I remember
+
+أبدأ
+abda’u
+I start / begin
+
+أنتهي
+antahī
+I finish
+
+أسبح
+asbaḥ
+I swim
+
+أحتاج
+aḥtāju
+I need
+
+
+بحر
+sea
+
+جبل
+mountain
+
+نهر
+river
+
+جامعة
+university
+
+مطر
+rain
+
+فارغ
+empty
+
+قوي
+strong
+
+
+ضعيف
+weak
+
+فوق	above
+تحت	under
+خلال	during
+حول	around
+ضد	against
+بعد	after
+قبل	before
+إلى	to
+من	from
+عبر	through / across
+
+لطيف kind
+
+name اسم
+
+my name اسمي
+
+hotel الفندق

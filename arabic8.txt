@@ -1,0 +1,72 @@
+ألتقي
+altqī
+I meet
+
+مطار
+airport
+
+مطبخ
+kitchen
+
+مستشفى
+hospital
+
+مكتبة
+library
+
+تلفاز
+television
+
+قرية
+village
+
+بحر
+sea
+
+مظلم
+dark
+
+مضيء
+bright
+
+غني
+rich
+
+فقير
+poor
+
+
+
+
+Arabic	English
+مع	with
+دون	without
+أمام	in front of
+خلف	behind
+بين	between
+تحت	under
+فوق	above
+حول	around
+عبر	through
+بعد	after
+قبل	before
+على	on
+إلى	to
+من	from
+في	in
+عند	at / by
+ضد	against
+بسبب	because of
+خلال	during
+منذ	since
+
+
+لقد = indeed / surely / truly (used for emphasis)
+
+كان = was / had
+
+قلبًا = a heart → tanwīn fatḥah (ً) because it’s the object of “كان”
+
+طيبًا = kind / good → adjective must agree in case and gender with “قلبًا”
+
+
